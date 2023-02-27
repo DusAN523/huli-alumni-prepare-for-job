@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/du%C5%A1an-machala-8203331b6
 Email: dusan.machala523@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+FS-Weather-app: https://github.com/DusAN523/Weather-app
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/{username}
